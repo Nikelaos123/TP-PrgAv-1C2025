@@ -4,7 +4,6 @@ public class Robot {
     private String estado;
     private Coordenada ubicacion; // CLASE PARA LABURAR EN DONDE ESTA
 
-
     public Robot(int id){
         this.id = id;
         this.carga = 100;
